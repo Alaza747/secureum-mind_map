@@ -39,24 +39,24 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Course Videos
 
-1. Done [Block 1](https://youtu.be/44qhIBMGMoM)
-2. Done [Block 2](https://youtu.be/zIeBfuXxuWs)
-3. Done [Block 3](https://youtu.be/ltvTIr4K63s)
-4. Done [Block 4](https://youtu.be/MFoxW07ICKs)
-5. Done [Block 5](https://youtu.be/I-TjCtjDs1M)
+1. [x] [Block 1](https://youtu.be/44qhIBMGMoM)
+2. [x] [Block 2](https://youtu.be/zIeBfuXxuWs)
+3. [x] [Block 3](https://youtu.be/ltvTIr4K63s)
+4. [x] [Block 4](https://youtu.be/MFoxW07ICKs)
+5. [x] [Block 5](https://youtu.be/I-TjCtjDs1M)
 
 ---
 
 ### Participant Created Content
 
-- Done [Ethereum 101 - D-Squared](https://youtu.be/admYLxNPROo)
+- [x] [Ethereum 101 - D-Squared](https://youtu.be/admYLxNPROo)
 
 ---
 
 ### Assignment
 
-1.  Done Read the Ethereum whitepaper: [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)
-2.  Read the Ethereum yellow paper: [https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf)
+1.  [x] Read the Ethereum whitepaper: [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)
+2.  [ ] Read the Ethereum yellow paper: [https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf)
 3.  Read Chapters 1, 2, 3, 4, 6, 13 and 14 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) and other references in Secureum’s “Ethereum 101” article
 4.  Browse through topics at [https://ethereum.org/en/developers/docs/](https://ethereum.org/en/developers/docs/)
 5.  Explore blocks, transactions and other protocol internals at [https://etherscan.io/](https://etherscan.io/)
