@@ -69,7 +69,7 @@ To Dos:
 
 ### Quiz
 
-- [Slot 1 quiz](quizzes/1.%20Ethereum%20101.md)
+- [x] [Slot 1 quiz](quizzes/1.%20Ethereum%20101.md) 78%
 
 ### Quiz Writeups
 
