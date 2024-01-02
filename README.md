@@ -24,8 +24,8 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 ---
 
 To Dos:
-[] https://github.com/Arachnid/uscc/tree/master/submissions-2017/
-[] https://ethereum.stackexchange.com/questions/3667/difference-between-call-callcode-and-delegatecall
+[ ] https://github.com/Arachnid/uscc/tree/master/submissions-2017/
+[ ] https://ethereum.stackexchange.com/questions/3667/difference-between-call-callcode-and-delegatecall
 
 ---
 
