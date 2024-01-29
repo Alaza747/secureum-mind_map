@@ -108,16 +108,16 @@ To Dos:
 1.  [x] Read Chapter 7 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc)
 2.  [x] Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC20 contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
 3.  [x] Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC721 (NFT) contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
-4.  [ ] Understand Solidity syntax and semantics implemented in OpenZeppelin’s security-related contracts Ownable, Pausable and ReentrancyGuard: [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access) and [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
+4.  [x] Understand Solidity syntax and semantics implemented in OpenZeppelin’s security-related contracts Ownable, Pausable and ReentrancyGuard: [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access) and [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
 5.  [ ] Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
 
 ### Quiz
 
-- [ ] [Slot 2 Quiz](quizzes/2.%20Solidity%20101.md)
+- [x] [Slot 2 Quiz](quizzes/2.%20Solidity%20101.md)
 
 ### Quiz Writeups
 
-- [ ] [https://ventral.digital/posts/2021/10/24/secureum-bootcamp-solidity-101-quiz](https://ventral.digital/posts/2021/10/24/secureum-bootcamp-solidity-101-quiz)
+- [x] [https://ventral.digital/posts/2021/10/24/secureum-bootcamp-solidity-101-quiz](https://ventral.digital/posts/2021/10/24/secureum-bootcamp-solidity-101-quiz)
 
 ---
 
