@@ -135,11 +135,11 @@ To Dos:
 
 ### Youtube Videos
 
-1.  [ ] [Block 1](https://youtu.be/3bFgsmsQXrE)
-2.  [ ] [Block 2](https://youtu.be/TqMIbouwePE)
-3.  [ ] [Block 3](https://youtu.be/C0zBhTgppLQ)
-4.  [ ] [Block 4](https://youtu.be/L_9Fk6HRwpU)
-5.  [ ] [Block 5](https://youtu.be/0kx8M4u5980)
+1.  [x] [Block 1](https://youtu.be/3bFgsmsQXrE)
+2.  [x] [Block 2](https://youtu.be/TqMIbouwePE)
+3.  [x] [Block 3](https://youtu.be/C0zBhTgppLQ)
+4.  [x] [Block 4](https://youtu.be/L_9Fk6HRwpU)
+5.  [x] [Block 5](https://youtu.be/0kx8M4u5980)
 
 ---
 
