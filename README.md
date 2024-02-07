@@ -145,7 +145,7 @@ To Dos:
 
 ### Participant Created Content
 
-- [ ] [Solidity 101 and 201 - D-Squared](https://youtu.be/65XiLy5Cxxk)
+- [x] [Solidity 101 and 201 - D-Squared](https://youtu.be/65XiLy5Cxxk)
 
 ---
 
