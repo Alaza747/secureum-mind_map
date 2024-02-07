@@ -151,19 +151,19 @@ To Dos:
 
 ### Assignment
 
-1. [ ] Understand all the OpenZeppelin Library contracts (many of which are widely-used): [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts")
-2. [ ] Understand Solidity syntax and semantics implemented in Uniswap V3 contracts and related dependencies: [https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts](https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts "https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts")
-3. [ ] Understand Solidity syntax and semantics implemented in Fei Protocol contracts and related dependencies: [https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts "https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts")
-4. [ ] Understand Solidity syntax and semantics implemented in Chainlink contracts and related dependencies: [https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4](https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4 "https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4")
-5. [ ] Understand Solidity syntax and semantics implemented in Opyn Gamma Protocol contracts and related dependencies: [https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core](https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core "https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core")
+1. [x] Understand all the OpenZeppelin Library contracts (many of which are widely-used): [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts")
+2. [x] Understand Solidity syntax and semantics implemented in Uniswap V3 contracts and related dependencies: [https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts](https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts "https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts")
+3. [x] Understand Solidity syntax and semantics implemented in Fei Protocol contracts and related dependencies: [https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts "https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts")
+4. [x] Understand Solidity syntax and semantics implemented in Chainlink contracts and related dependencies: [https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4](https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4 "https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4")
+5. [x] Understand Solidity syntax and semantics implemented in Opyn Gamma Protocol contracts and related dependencies: [https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core](https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core "https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core")
 
 ### Quiz
 
-- [ ] [Slot 3 Quiz](quizzes/3.%20Solidity%20201.md)
+- [x] [Slot 3 Quiz](quizzes/3.%20Solidity%20201.md)
 
 ### Quiz Writeups
 
-- [ ] [https://ventral.digital/posts/2021/10/30/secureum-bootcamp-solidity-201-quiz](https://ventral.digital/posts/2021/10/30/secureum-bootcamp-solidity-201-quiz)
+- [x] [https://ventral.digital/posts/2021/10/30/secureum-bootcamp-solidity-201-quiz](https://ventral.digital/posts/2021/10/30/secureum-bootcamp-solidity-201-quiz)
 
 ---
 
