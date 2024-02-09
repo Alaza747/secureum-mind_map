@@ -179,10 +179,10 @@ To Dos:
 
 ### Youtube Videos
 
-1.  [ ] [Block 1](https://youtu.be/OOzyoaYIw2k)
-2.  [ ] [Block 2](https://youtu.be/fgXuHaZDenU)
-3.  [ ] [Block 3](https://youtu.be/YVewx1xVROE)
-4.  [ ] [Block 4](https://youtu.be/byA3MLLiKMM)
+1.  [x] [Block 1](https://youtu.be/OOzyoaYIw2k)
+2.  [x] [Block 2](https://youtu.be/fgXuHaZDenU)
+3.  [x] [Block 3](https://youtu.be/YVewx1xVROE)
+4.  [x] [Block 4](https://youtu.be/byA3MLLiKMM)
 5.  [ ] [Block 5](https://youtu.be/vyWLO5Dlg50)
 
 ---
