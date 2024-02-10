@@ -183,7 +183,7 @@ To Dos:
 2.  [x] [Block 2](https://youtu.be/fgXuHaZDenU)
 3.  [x] [Block 3](https://youtu.be/YVewx1xVROE)
 4.  [x] [Block 4](https://youtu.be/byA3MLLiKMM)
-5.  [ ] [Block 5](https://youtu.be/vyWLO5Dlg50)
+5.  [x] [Block 5](https://youtu.be/vyWLO5Dlg50)
 
 ---
 
