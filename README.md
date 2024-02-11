@@ -189,16 +189,16 @@ To Dos:
 
 ### Participant Created Content
 
-- [ ] [Security Pitfalls & Best Practices 101 and 201 - D-Squared](https://youtu.be/77iL0syhEso)
+- [x] [Security Pitfalls & Best Practices 101 and 201 - D-Squared](https://youtu.be/77iL0syhEso)
 
 ---
 
 ### Assignment
 
-1. [ ] Explore the SWC Registry list and test cases: [https://swcregistry.io/](https://swcregistry.io/ "https://swcregistry.io/")
-2. [ ] Watch “Intro to Security First Development” by Gonçalo Sá @GNSPS, ConsenSys Diligence: [https://www.youtube.com/watch?v=72K57I9yvyI](https://www.youtube.com/watch?v=72K57I9yvyI "https://www.youtube.com/watch?v=72K57I9yvyI")
-3. [ ] Watch “Protect your Crypto and Avoid Getting Hacked” by Mehdi Zerouali @ethzed, Sigma Prime: [https://www.youtube.com/watch?v=L2DRC6PjTgk](https://www.youtube.com/watch?v=L2DRC6PjTgk "https://www.youtube.com/watch?v=L2DRC6PjTgk")
-4. [ ] Watch “DeFi Security: With So Many Hacks, Will It Ever Be Safe?” on Unchained Podcast with Dan Guido @dguido (Trail of Bits) and Taylor Monahan (MyCrypto): [https://www.youtube.com/watch?v=Sc5fZ-Wprx8](https://www.youtube.com/watch?v=Sc5fZ-Wprx8 "https://www.youtube.com/watch?v=Sc5fZ-Wprx8")
+1. [x] Explore the SWC Registry list and test cases: [https://swcregistry.io/](https://swcregistry.io/ "https://swcregistry.io/")
+2. [x] Watch “Intro to Security First Development” by Gonçalo Sá @GNSPS, ConsenSys Diligence: [https://www.youtube.com/watch?v=72K57I9yvyI](https://www.youtube.com/watch?v=72K57I9yvyI "https://www.youtube.com/watch?v=72K57I9yvyI")
+3. [x] Watch “Protect your Crypto and Avoid Getting Hacked” by Mehdi Zerouali @ethzed, Sigma Prime: [https://www.youtube.com/watch?v=L2DRC6PjTgk](https://www.youtube.com/watch?v=L2DRC6PjTgk "https://www.youtube.com/watch?v=L2DRC6PjTgk")
+4. [x] Watch “DeFi Security: With So Many Hacks, Will It Ever Be Safe?” on Unchained Podcast with Dan Guido @dguido (Trail of Bits) and Taylor Monahan (MyCrypto): [https://www.youtube.com/watch?v=Sc5fZ-Wprx8](https://www.youtube.com/watch?v=Sc5fZ-Wprx8 "https://www.youtube.com/watch?v=Sc5fZ-Wprx8")
 5. [ ] Attempt CTF: [https://capturetheether.com/](https://capturetheether.com/ "https://capturetheether.com/")
 
 ---
