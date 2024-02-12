@@ -205,11 +205,11 @@ To Dos:
 
 ### Quiz
 
-- [ ] [Slot 4 quiz](quizzes/4.%20Pitfalls%20and%20Best%20Practices%20101.md)
+- [x] [Slot 4 quiz](quizzes/4.%20Pitfalls%20and%20Best%20Practices%20101.md)
 
 ### Quiz Writeups
 
-- [ ] [https://ventral.digital/posts/2021/11/7/secureum-bootcamp-security-pitfalls-amp-best-practices-101-quiz](https://ventral.digital/posts/2021/11/7/secureum-bootcamp-security-pitfalls-amp-best-practices-101-quiz)
+- [x] [https://ventral.digital/posts/2021/11/7/secureum-bootcamp-security-pitfalls-amp-best-practices-101-quiz](https://ventral.digital/posts/2021/11/7/secureum-bootcamp-security-pitfalls-amp-best-practices-101-quiz)
 
 ---
 
