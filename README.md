@@ -227,27 +227,27 @@ To Dos:
 
 ### Youtube Videos
 
-1.  [ ] [Block 1](https://youtu.be/WGM1SF8twmw)
-2.  [ ] [Block 2](https://youtu.be/HqHo1jKUnmU)
-3.  [ ] [Block 3](https://youtu.be/pXoEIjHupXk)
-4.  [ ] [Block 4](https://youtu.be/IVbEIbIpWUY)
-5.  [ ] [Block 5](https://youtu.be/QSsfkmcdbPw)
+1.  [x] [Block 1](https://youtu.be/WGM1SF8twmw)
+2.  [x] [Block 2](https://youtu.be/HqHo1jKUnmU)
+3.  [x] [Block 3](https://youtu.be/pXoEIjHupXk)
+4.  [x] [Block 4](https://youtu.be/IVbEIbIpWUY)
+5.  [x] [Block 5](https://youtu.be/QSsfkmcdbPw)
 
 ---
 
 ### Participant Created Content
 
-- [ ] [Security Pitfalls & Best Practices 101 and 201 - D-Squared](https://youtu.be/77iL0syhEso)
+- [x] [Security Pitfalls & Best Practices 101 and 201 - D-Squared](https://youtu.be/77iL0syhEso)
 
 ---
 
 ### Assignment
 
 1. [ ] Read [https://samczsun.com/so-you-want-to-use-a-price-oracle/](https://samczsun.com/so-you-want-to-use-a-price-oracle/ "https://samczsun.com/so-you-want-to-use-a-price-oracle/") and [https://samczsun.com/the-dangers-of-surprising-code/](https://samczsun.com/the-dangers-of-surprising-code/ "https://samczsun.com/the-dangers-of-surprising-code/")
-2. [ ] Watch “Security By Design & Smart Contract Audits” by Shayan Eskandari, Ex-ConsenSys Diligence: [https://www.youtube.com/watch?v=gfD1KBtLWZI](https://www.youtube.com/watch?v=gfD1KBtLWZI "https://www.youtube.com/watch?v=gfD1KBtLWZI")
+2. [x] Watch “Security By Design & Smart Contract Audits” by Shayan Eskandari, Ex-ConsenSys Diligence: [https://www.youtube.com/watch?v=gfD1KBtLWZI](https://www.youtube.com/watch?v=gfD1KBtLWZI "https://www.youtube.com/watch?v=gfD1KBtLWZI")
 3. [ ] Watch “How to Build Secure Smart Contracts” by Josselin Feist (@Josselin Feist - Trail of Bits), Trail of Bits: [https://www.youtube.com/watch?v=yP01yH4plT8](https://www.youtube.com/watch?v=yP01yH4plT8 "https://www.youtube.com/watch?v=yP01yH4plT8")
 4. [ ] Watch “White Hat Panel: DeFi Exploits”: [https://www.youtube.com/watch?v=Df2zzfoTfMc](https://www.youtube.com/watch?v=Df2zzfoTfMc "https://www.youtube.com/watch?v=Df2zzfoTfMc")
-5. [ ] Attempt CTF: [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/ "https://www.damnvulnerabledefi.xyz/")
+5. [x] Attempt CTF: [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/ "https://www.damnvulnerabledefi.xyz/")
 
 ---
 
