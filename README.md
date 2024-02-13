@@ -243,21 +243,21 @@ To Dos:
 
 ### Assignment
 
-1. [ ] Read [https://samczsun.com/so-you-want-to-use-a-price-oracle/](https://samczsun.com/so-you-want-to-use-a-price-oracle/ "https://samczsun.com/so-you-want-to-use-a-price-oracle/") and [https://samczsun.com/the-dangers-of-surprising-code/](https://samczsun.com/the-dangers-of-surprising-code/ "https://samczsun.com/the-dangers-of-surprising-code/")
+1. [x] Read [https://samczsun.com/so-you-want-to-use-a-price-oracle/](https://samczsun.com/so-you-want-to-use-a-price-oracle/ "https://samczsun.com/so-you-want-to-use-a-price-oracle/") and [https://samczsun.com/the-dangers-of-surprising-code/](https://samczsun.com/the-dangers-of-surprising-code/ "https://samczsun.com/the-dangers-of-surprising-code/")
 2. [x] Watch “Security By Design & Smart Contract Audits” by Shayan Eskandari, Ex-ConsenSys Diligence: [https://www.youtube.com/watch?v=gfD1KBtLWZI](https://www.youtube.com/watch?v=gfD1KBtLWZI "https://www.youtube.com/watch?v=gfD1KBtLWZI")
 3. [ ] Watch “How to Build Secure Smart Contracts” by Josselin Feist (@Josselin Feist - Trail of Bits), Trail of Bits: [https://www.youtube.com/watch?v=yP01yH4plT8](https://www.youtube.com/watch?v=yP01yH4plT8 "https://www.youtube.com/watch?v=yP01yH4plT8")
-4. [ ] Watch “White Hat Panel: DeFi Exploits”: [https://www.youtube.com/watch?v=Df2zzfoTfMc](https://www.youtube.com/watch?v=Df2zzfoTfMc "https://www.youtube.com/watch?v=Df2zzfoTfMc")
+4. [x] Watch “White Hat Panel: DeFi Exploits”: [https://www.youtube.com/watch?v=Df2zzfoTfMc](https://www.youtube.com/watch?v=Df2zzfoTfMc "https://www.youtube.com/watch?v=Df2zzfoTfMc")
 5. [x] Attempt CTF: [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/ "https://www.damnvulnerabledefi.xyz/")
 
 ---
 
 ### Quiz
 
-- [ ] [Slot 5 quiz](quizzes/5.%20Pitfalls%20and%20Best%20Practices%20201.md)
+- [x] [Slot 5 quiz](quizzes/5.%20Pitfalls%20and%20Best%20Practices%20201.md)
 
 ### Quiz Writeups
 
-- [ ] [https://ventral.digital/posts/2021/11/14/secureum-bootcamp-security-pitfalls-amp-best-practices-201-quiz](https://ventral.digital/posts/2021/11/14/secureum-bootcamp-security-pitfalls-amp-best-practices-201-quiz)
+- [x] [https://ventral.digital/posts/2021/11/14/secureum-bootcamp-security-pitfalls-amp-best-practices-201-quiz](https://ventral.digital/posts/2021/11/14/secureum-bootcamp-security-pitfalls-amp-best-practices-201-quiz)
 
 ---
 
