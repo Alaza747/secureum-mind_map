@@ -279,8 +279,9 @@ To Dos:
 4.  [x] [Block 4](https://youtu.be/jZ81ebDJVe0)
 5.  [x] [Block 5](https://youtu.be/dgITqd3mkDk)
 6.  [ ] [Live Auditing](https://www.youtube.com/watch?v=LLiJK_VeAvQ&t=0s)
-7.  [ ] [Explanation of Symbolic Checking](https://www.youtube.com/watch?v=azTVEwxN8zM&t=227s)
-8.  [ ] [Explanation of Formal Verification](https://www.youtube.com/watch?v=NDoqPO_hZeQ&t=0s)
+7.  [ ] [Explanation of Symbolic Checking - very technical](https://www.youtube.com/watch?v=azTVEwxN8zM&t=227s)
+8.  [ ] [Symbolic Execution - by Trail of Bits Director](https://www.youtube.com/watch?v=3pWYvtx_sjA)
+9.  [ ] [Explanation of Formal Verification](https://www.youtube.com/watch?v=NDoqPO_hZeQ&t=0s)
 
 ---
 
