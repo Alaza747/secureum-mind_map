@@ -286,7 +286,7 @@ To Dos:
 
 ### Participant Created Content
 
-- [ ] [Audit Techniques & Tools 101 - D-Squared](https://youtu.be/8IbkWnTLueU)
+- [x] [Audit Techniques & Tools 101 - D-Squared](https://youtu.be/8IbkWnTLueU)
 
 ---
 
